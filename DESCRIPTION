@@ -1,12 +1,12 @@
 Package: USpopcenters
 Title: United States Centers of Population (Centroids)
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person(given = "Nik",
            family = "Krieger",
            role = c("aut", "cre"),
            email = "nk@case.edu")
-Description: Center of population (centroid) data for census areas in the
+Description: Centers of population (centroid) data for census areas in the
     United States.
 License: CC0
 URL:
@@ -20,8 +20,8 @@ LazyData: true
 LazyDataCompression: xz
 RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2021-09-20 02:42:32 UTC; kriegen
+Packaged: 2021-11-09 17:26:11 UTC; kriegen
 Author: Nik Krieger [aut, cre]
 Maintainer: Nik Krieger <nk@case.edu>
 Repository: CRAN
-Date/Publication: 2021-09-20 15:20:09 UTC
+Date/Publication: 2021-11-09 17:40:02 UTC
