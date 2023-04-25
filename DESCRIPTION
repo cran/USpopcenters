@@ -1,6 +1,6 @@
 Package: USpopcenters
 Title: United States Centers of Population (Centroids)
-Version: 0.1.1
+Version: 0.2.0
 Authors@R: 
     person(given = "Nik",
            family = "Krieger",
@@ -18,10 +18,10 @@ Suggests: tibble
 Encoding: UTF-8
 LazyData: true
 LazyDataCompression: xz
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2021-11-09 17:26:11 UTC; kriegen
+Packaged: 2023-04-24 14:34:35 UTC; kriegen
 Author: Nik Krieger [aut, cre]
 Maintainer: Nik Krieger <nk@case.edu>
 Repository: CRAN
-Date/Publication: 2021-11-09 17:40:02 UTC
+Date/Publication: 2023-04-25 08:00:05 UTC
